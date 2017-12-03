@@ -1,0 +1,2 @@
+First the program opens csv file.
+Then it gathers data from csv file and transfers it to XML format
