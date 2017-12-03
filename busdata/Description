@@ -1,0 +1,2 @@
+This program reads data from webpage every X seconds for Y period of time.
+Then it transfers that data into a JSON file and adds it into ZIP.
