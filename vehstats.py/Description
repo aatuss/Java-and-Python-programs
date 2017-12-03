@@ -1,0 +1,2 @@
+This program opens large (250mb) csv file containing vehicle data. 
+Then it gathers some data from that file and draws 4 piecharts from the data
